@@ -1,0 +1,40 @@
+
+.rawp {
+
+    margin: auto;
+    margin-top: 20px;
+    width: 60%;
+    border: 2px solid rgb(150, 12, 200);
+    background-color: rgb(97, 64, 41);
+    
+    }
+    
+    .addT{
+    
+      padding-top: 20px;
+      padding-left: 100px;}
+    
+    
+    .butDiv {
+        padding-top: 20px;
+        padding-left: 30px;
+        padding-bottom: 20px; }
+    .counter {
+    
+        padding-top: 20px;
+      
+        text-align: center;}
+    
+    .ulist1 { list-style-type: none; }
+    
+    .ulist {
+    
+        list-style-type: none;
+       
+    }
+    
+    li {
+        font-size: 1.9rem;
+        font-family: 'Times New Roman', Times, serif }
+    
+    .text2{ padding-left: 20px; }
